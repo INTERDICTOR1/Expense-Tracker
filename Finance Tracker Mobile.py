@@ -21,7 +21,7 @@ from matplotlib.figure import Figure
 
 # Firebase Configuration
 config = {
-    "apiKey": "AIzaSyAA2LipTywNn_aY8x6RegrZ-0zOG6TVtqE",
+    "apiKey": "your API key",
     "authDomain": "fintrack-d6c2e.firebaseapp.com",
     "databaseURL": "https://fintrack-d6c2e.firebaseio.com",
     "projectId": "fintrack-d6c2e",
